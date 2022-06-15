@@ -30,6 +30,5 @@ Instale as dependências:<br />
 ``npm install``
 
 Execute a aplicação:<br />
-``npm start``
-<br />
+``npm start`` <br /><br />
 Abra http://localhost:3000 em seu navegador para rodar a aplicação.
