@@ -23,13 +23,13 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 ## Acessando o Projeto
 
-Faça o clone do repositório:
-`https://github.com/Sidnasciment0/hc3-github-user-search.git`
+Faça o clone do repositório: <br />
+``https://github.com/Sidnasciment0/hc3-github-user-search.git``
 
-Instale as dependências:
-`npm install`
+Instale as dependências:<br />
+``npm install``
 
-Execute a aplicação
-`npm start`
-
+Execute a aplicação:<br />
+``npm start``
+<br />
 Abra http://localhost:3000 em seu navegador para rodar a aplicação.
